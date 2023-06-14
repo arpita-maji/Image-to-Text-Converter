@@ -1,6 +1,6 @@
 # Image-to-Text-Converter
 
-An image-to-text converter is an website that transforms textual information from images into machine-readable text. It utilizes a combination of image processing and optical character recognition (OCR) techniques to extract the text contained within an image and convert it into a readable and editable text format. The need for image-to-text conversion arises in various scenarios. For example, consider a situation where you have a scanned document or a photograph of a document that you want to convert into editable text. Instead of manually retyping the entire content, an image-to-text converter can automate the process and save time and effort.
+An image-to-text converter is a website that transforms textual information from images into machine-readable text. It utilizes a combination of image processing and optical character recognition (OCR) techniques to extract the text contained within an image and convert it into a readable and editable text format. The need for image-to-text conversion arises in various scenarios. For example, consider a situation where you have a scanned document or a photograph of a document that you want to convert into editable text. Instead of manually retyping the entire content, an image-to-text converter can automate the process and save time and effort.
 
 ## Technologies Used
 
